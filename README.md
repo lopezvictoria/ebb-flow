@@ -9,6 +9,6 @@
 
  # daft
  
- this is a paragraph.
+ This is a paragraph.
  
  !{
